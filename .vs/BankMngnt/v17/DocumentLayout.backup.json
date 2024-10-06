@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|c:\\users\\2021507\\source\\repos\\bankmngnt\\bankmngnt\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|solutionrelative:bankmngnt\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|c:\\users\\2021507\\source\\repos\\bankmngnt\\bankmngnt\\accountlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|solutionrelative:bankmngnt\\accountlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|c:\\users\\2021507\\source\\repos\\bankmngnt\\bankmngnt\\accountlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|solutionrelative:bankmngnt\\accountlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|c:\\users\\2021507\\source\\repos\\bankmngnt\\bankmngnt\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|solutionrelative:bankmngnt\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|c:\\users\\2021507\\source\\repos\\bankmngnt\\bankmngnt\\accountmemoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|solutionrelative:bankmngnt\\accountmemoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|c:\\users\\2021507\\source\\repos\\bankmngnt\\bankmngnt\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8767A055-09F1-40E3-B6F1-91995DC1C668}|BankMngnt\\BankMngnt.csproj|solutionrelative:bankmngnt\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\DashBoardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BankMngnt\\DashBoardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\DashBoardWindow.xaml.cs",
+              "RelativeToolTip": "BankMngnt\\DashBoardWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:09:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BankMngnt\\AccountListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountListWindow.xaml.cs",
+              "RelativeToolTip": "BankMngnt\\AccountListWindow.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:08:58.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountListWindow.xaml",
+              "RelativeDocumentMoniker": "BankMngnt\\AccountListWindow.xaml",
+              "ToolTip": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountListWindow.xaml",
+              "RelativeToolTip": "BankMngnt\\AccountListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T12:02:56.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashBoardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\DashBoardWindow.xaml",
+              "RelativeDocumentMoniker": "BankMngnt\\DashBoardWindow.xaml",
+              "ToolTip": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\DashBoardWindow.xaml",
+              "RelativeToolTip": "BankMngnt\\DashBoardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T11:54:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountMemoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountMemoryRepo.cs",
+              "RelativeDocumentMoniker": "BankMngnt\\AccountMemoryRepo.cs",
+              "ToolTip": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountMemoryRepo.cs",
+              "RelativeToolTip": "BankMngnt\\AccountMemoryRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:49:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "BankMngnt\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\2021507\\source\\repos\\BankMngnt\\BankMngnt\\AccountViewModel.cs",
+              "RelativeToolTip": "BankMngnt\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:49:42.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
